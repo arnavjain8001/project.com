@@ -1,0 +1,112 @@
+.span{
+    color:orange;
+   
+}
+body{
+    margin:0px;
+    padding:0px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+.name{
+    padding-left:250px;
+    font-size:25px;
+    padding-top:30px;
+}
+.grid{
+    display:flex;
+    grid-template-columns: auto auto auto;
+    column-gap:30px;
+    padding-top:40px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.color{
+    background-color:rgb(247, 241, 241);
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+}
+.div{
+    text-align:centre;
+}
+
+.other{
+    padding-left:130px;
+margin-top: -190;
+
+}
+.other1{
+    padding-left:470px;
+    margin-top: -190;
+}
+.other2{
+    padding-left:830px;
+    margin-top: -185;
+}
+.padding{
+    padding-left:170px;
+    font-size: 25px;
+    color:orange;
+    margin-top: -150px;
+}
+.column {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    background-color:rgb(253, 226, 230) ;
+}
+.div1{
+    display:flex;
+ padding:40px;
+}
+.divider1{
+    width:0px;
+    height:35%;
+    border : 1px solid grey;
+    margin-top: 30px;
+}
+.gappings{
+    padding-bottom:90px;
+}
+.font{
+    color:#5c5c5c;
+    font-size: 15px;
+
+}
+.div{
+    color:rgb(99, 98, 98);
+    font-size:12px;
+}
+.rehan{
+    padding-left: 150px;
+    font-size:30px;
+    padding-top:40px;
+}
+.font1{
+    color:orange;
+}
+.grids{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+padding:0px;
+margin:0px;
+
+
+}
+.size{
+    font-size: 13px;
+    padding-left: 10px;
+}
+.grey{
+    background-color: rgb(241, 237, 237);
+    
+}
+.bgcolor{
+    background-color: rgb(211, 205, 205);
+    border-radius: 30px;
+}
+
+
+
